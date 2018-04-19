@@ -1,9 +1,9 @@
 var config = {
-  geojson: "https://web.fulcrumapp.com/shares/a5c8e07368efde43.geojson",
-  title: "Congress Park Trees",
-  layerName: "Trees",
-  hoverProperty: "species_sim",
-  sortProperty: "dbh_2012_inches_diameter_at_breast_height_46",
+  geojson: "http://portal.geostation.net/assets/building84.json",
+  title: "Tax Monitor",
+  layerName: "Buildings",
+  hoverProperty: "PPTY_USE",
+  sortProperty: "OBJECTID_1",
   sortOrder: "desc"
 };
 
